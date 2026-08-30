@@ -1,0 +1,30 @@
+html>
+   <head>
+       <title>Pagina Oficial</title>
+   </head>
+
+   <body bgcolor="#F1F59F"> 
+   <center>
+
+    <h1>El Blog Personal de Jhonny</h1>
+
+    <img src="img/jhonny.jpg" width="230" height="250">
+
+    <h2>Lic. wily chujutalli</h2>
+
+    <p>Mi nombre es Wily chujuta, actualmente soy director de una agencia de <br>
+       marketing y a la vez soy docente en diversas universidades einstitutos del pais.</p>
+
+    <img src="img/certus.png" height="60" width="200">  
+
+    <h2>Disponibidad Horaria</h2>
+
+      
+       <table border="1" height="300" width="700">
+ 	       <tr>
+               <td>TURNO</td>
+               <td>LUNES</td>
+               <td>MARTES</td>
+               <td>MIERCOLES</td>
+               <td>JUEVES</td>
+               <td>VIERN…
